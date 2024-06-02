@@ -1,0 +1,4 @@
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                      PORTS               NAMES
+610a87522816        12e5ab9d51c8        "/bin/sh -c 'pip ins…"   13 minutes ago      Exited (2) 13 minutes ago                       priceless_mendel
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS                      PORTS               NAMES
+610a87522816        12e5ab9d51c8        "/bin/sh -c 'pip ins…"   24 minutes ago      Exited (2) 24 minutes ago                       priceless_mendel
